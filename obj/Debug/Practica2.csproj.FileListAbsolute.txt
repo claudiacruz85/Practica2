@@ -1,0 +1,6 @@
+D:\3er. semestre\Programacion\Practica2\bin\Debug\Practica2.exe.config
+D:\3er. semestre\Programacion\Practica2\bin\Debug\Practica2.exe
+D:\3er. semestre\Programacion\Practica2\bin\Debug\Practica2.pdb
+D:\3er. semestre\Programacion\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
+D:\3er. semestre\Programacion\Practica2\obj\Debug\Practica2.exe
+D:\3er. semestre\Programacion\Practica2\obj\Debug\Practica2.pdb
